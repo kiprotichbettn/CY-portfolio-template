@@ -2,7 +2,7 @@
 
 For each section make a new branch and replace the content in the section. Then preform a pull request to merge that branch to main. 
 
-[link for pull requests etc]("https://docs.google.com/document/d/1sxmOdZr19dFgSs4NCmIMr-q76K5f_H2aBh16EIBzsMk/edit?usp=sharing")
+(link for pull requests etc)["https://docs.google.com/document/d/1sxmOdZr19dFgSs4NCmIMr-q76K5f_H2aBh16EIBzsMk/edit?usp=sharing"]
 
 ### A beautiful minimal and accessible portfolio template for Developers.
 
